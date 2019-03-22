@@ -1,7 +1,7 @@
 {
-  "name": "lt-ts-module-practice",
+  "name": "typescript-package-starter",
   "version": "1.0.0",
-  "description": "Test module, possible boilerpalte for TS module.",
+  "description": "Typescript npm package starter repo.",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "files": [
@@ -20,15 +20,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lukeajtodd/lt-ts-module-practice.git"
+    "url": "git+https://github.com/lukeajtodd/typescript-package-starter.git"
   },
-  "keywords": [],
+  "keywords": [
+    "Typescript",
+    "TSLint",
+    "Prettier",
+    "Jest"
+  ],
   "author": "Luke Todd",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/lukeajtodd/lt-ts-module-practice/issues"
+    "url": "https://github.com/lukeajtodd/typescript-package-starter/issues"
   },
-  "homepage": "https://github.com/lukeajtodd/lt-ts-module-practice#readme",
+  "homepage": "https://github.com/lukeajtodd/typescript-package-starter#readme",
   "devDependencies": {
     "@types/jest": "^24.0.11",
     "jest": "^24.5.0",

@@ -1,1 +1,6 @@
-# lt-ts-module-practice
+# Typescript Starter
+
+- Typescript
+- TSLint
+- Prettier
+- Jest
